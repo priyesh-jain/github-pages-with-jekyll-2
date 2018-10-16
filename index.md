@@ -1,3 +1,3 @@
-# Welcome to my blog
+# _Welcome to my blog_
 
-I'm glad you are here. I plan to talk about ...
+_**I'm glad you are here. I plan to talk about ...**_
